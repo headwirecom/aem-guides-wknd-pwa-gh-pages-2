@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aem-guides-wknd-pwa-gh-pages-2/static/css/main.2f1dcbcf.chunk.css",
+    "main.js": "/aem-guides-wknd-pwa-gh-pages-2/static/js/main.2c92078b.chunk.js",
+    "main.js.map": "/aem-guides-wknd-pwa-gh-pages-2/static/js/main.2c92078b.chunk.js.map",
+    "runtime-main.js": "/aem-guides-wknd-pwa-gh-pages-2/static/js/runtime-main.0276d961.js",
+    "runtime-main.js.map": "/aem-guides-wknd-pwa-gh-pages-2/static/js/runtime-main.0276d961.js.map",
+    "static/js/2.9f09cfee.chunk.js": "/aem-guides-wknd-pwa-gh-pages-2/static/js/2.9f09cfee.chunk.js",
+    "static/js/2.9f09cfee.chunk.js.map": "/aem-guides-wknd-pwa-gh-pages-2/static/js/2.9f09cfee.chunk.js.map",
+    "static/js/3.2572a3f8.chunk.js": "/aem-guides-wknd-pwa-gh-pages-2/static/js/3.2572a3f8.chunk.js",
+    "static/js/3.2572a3f8.chunk.js.map": "/aem-guides-wknd-pwa-gh-pages-2/static/js/3.2572a3f8.chunk.js.map",
+    "index.html": "/aem-guides-wknd-pwa-gh-pages-2/index.html",
+    "service-worker.js": "/aem-guides-wknd-pwa-gh-pages-2/service-worker.js",
+    "service-worker.js.map": "/aem-guides-wknd-pwa-gh-pages-2/service-worker.js.map",
+    "static/css/main.2f1dcbcf.chunk.css.map": "/aem-guides-wknd-pwa-gh-pages-2/static/css/main.2f1dcbcf.chunk.css.map",
+    "static/js/2.9f09cfee.chunk.js.LICENSE.txt": "/aem-guides-wknd-pwa-gh-pages-2/static/js/2.9f09cfee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0276d961.js",
+    "static/js/2.9f09cfee.chunk.js",
+    "static/css/main.2f1dcbcf.chunk.css",
+    "static/js/main.2c92078b.chunk.js"
+  ]
+}
